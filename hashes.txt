@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Lied für uns
+
+This log tracks the cryptographic history and versioning for the song **Ein Lied für uns** (ein-lied-fur-uns).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:56:31.550303 | `v1` | `93a0e2b1451b468f55b4ac52dff32d42c33812a896685a78bdfa443132f12d17` | `a80ee4647b694423375a2e852d1f637f9fa221588f5769e7bc927db7b5facc14` | `2026-06-28_ein-lied-fur-uns-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

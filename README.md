@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-lied-fur-uns/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ein Lied für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-lied-fur-uns/) |
+| **Get License** | [Commercial Licensing for Ein Lied für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-lied-fur-uns/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `93a0e2b1451b468f55b4ac52dff32d42c33812a896685a78bdfa443132f12d17` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
