@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-lied-fur-uns/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein Lied für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-lied-fur-uns/) |
+| **Get License** | [Obtain a Music License for Ein Lied für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-lied-fur-uns/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die City schläft ein, doch mein Motor ist laut in der Nacht
+> Dein Blick so gefährlich, guck, was du grad mit mir machst
+> Im AMG-Coupé, 808s, spürst du den Vibe?
+> Ein Lied für uns, come on, let's go for a ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
